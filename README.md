@@ -29,7 +29,7 @@ data capital.
 
 ***Bitcointalk thread:*** https://bitcointalk.org/index.php?topic=3166694
 
-***Github:*** https://github.com/maroonstudios/ambertokensale
+***Github:*** https://github.com/ambertime/ambertokensale/
 
 ***Blog:*** http://ambertime.com
 
